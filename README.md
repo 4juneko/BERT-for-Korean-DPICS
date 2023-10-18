@@ -9,7 +9,8 @@
 - KcELECTRA + DAPT 성능이 가장 좋음.
   
    <img width="600" src="https://github.com/4juneko/BERT-for-Korean/assets/126551150/c256eaed-eccd-4771-bb2e-547925486656">
+   <img width="600" src="https://github.com/4juneko/BERT-for-Korean/assets/126551150/ae6e3116-7d57-4c3f-9afe-ae51b750370e">
+   <img width="600" src="https://github.com/4juneko/BERT-for-Korean/assets/126551150/7b43935f-c0f9-4987-96c3-df7438c08314">
+   <img width="600" src="https://github.com/4juneko/BERT-for-Korean/assets/126551150/f45e78f5-fd3c-4ec8-95dc-321dc9ef3b52">
 
-
-  (https://github.com/4juneko/BERT-for-Korean/assets/126551150/c256eaed-eccd-4771-bb2e-547925486656){: width="100" height="100"}
 - 한글 전처리에서 py-hanspell 에러(https://github.com/ssut/py-hanspell/issues/41) API 문제라 ... 사용 못했음.
