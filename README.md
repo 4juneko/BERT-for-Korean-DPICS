@@ -7,6 +7,7 @@
 - classification train(fine-tune)을 진행함
     - 데이터가 적어서 에포크를 증가시킬 수 없었음.
 - KcELECTRA + DAPT 성능이 가장 좋음.
+  
    <img width="600" src="https://github.com/4juneko/BERT-for-Korean/assets/126551150/c256eaed-eccd-4771-bb2e-547925486656">
 
 
