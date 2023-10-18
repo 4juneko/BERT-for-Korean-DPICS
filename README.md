@@ -7,5 +7,8 @@
 - classification train(fine-tune)을 진행함
     - 데이터가 적어서 에포크를 증가시킬 수 없었음.
 - KcELECTRA + DAPT 성능이 가장 좋음.
-   ![Result](https://github.com/4juneko/BERT-for-Korean/assets/126551150/c256eaed-eccd-4771-bb2e-547925486656){: width="100" height="100"}
+   ![Result]<img width="891" src="https://github.com/4juneko/BERT-for-Korean/assets/126551150/c256eaed-eccd-4771-bb2e-547925486656">
+
+
+  (https://github.com/4juneko/BERT-for-Korean/assets/126551150/c256eaed-eccd-4771-bb2e-547925486656){: width="100" height="100"}
 - 한글 전처리에서 py-hanspell 에러(https://github.com/ssut/py-hanspell/issues/41) API 문제라 ... 사용 못했음.
