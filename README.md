@@ -14,3 +14,5 @@
    <img width="600" src="https://github.com/4juneko/BERT-for-Korean/assets/126551150/f45e78f5-fd3c-4ec8-95dc-321dc9ef3b52">  
 
 - 한글 전처리에서 py-hanspell 에러(https://github.com/ssut/py-hanspell/issues/41) API 문제라 ... 사용 못했음.
+
+- KCI 등재 : https://kiss.kstudy.com/Detail/Ar?key=4063554
