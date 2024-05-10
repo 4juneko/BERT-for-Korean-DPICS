@@ -1,5 +1,7 @@
 # BERT-for-Korean
 
+- 논문 게재 : PCIT 에 참여하는 부모의 상호작용 기술 증진을 위한 인공지능 기반 자동 피드백 시스템 예비연구. 영유아아동정신건강연구, 16(2), 69-88.　DOI : 10.47801/KJIMH.16.2.3
+- 목적 : 유아인 자녀와 대화하는 부모의 발화를 8가지 항목으로 분류
 - KoBERT, KcBERT, KcELECTRA를 base-model로
 - domain adaptive pretrain (DAPT)
     - batch size를 GPU 용량에 따라 조절할 수 있는 코드였으나 GPU가 꺼져버리는
@@ -14,5 +16,3 @@
    <img width="600" src="https://github.com/4juneko/BERT-for-Korean/assets/126551150/f45e78f5-fd3c-4ec8-95dc-321dc9ef3b52">  
 
 - 한글 전처리에서 py-hanspell 에러(https://github.com/ssut/py-hanspell/issues/41) API 문제라 ... 사용 못했음.
-
-- KCI 등재 : https://kiss.kstudy.com/Detail/Ar?key=4063554
